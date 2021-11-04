@@ -1,2 +1,6 @@
 # Wemos-BME280-with-OLED-Display
-Wemos BME280 temperature and humidity Sensor with OLED Display, Updates via OTA and Server
+Please be gentle, one of my first projects.
+
+Wemos BME280 temperature and humidity Sensor with OLED Display.
+Sends data via MQTT.
+Updates via OTA and HTTPS Server.
