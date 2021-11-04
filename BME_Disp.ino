@@ -13,7 +13,7 @@
 #include <Adafruit_Sensor.h>
 #include <Adafruit_BME280.h>
 
-/* Change Values
+/* Search and Change Values
 SSID
 Passw0rd
 SCREEN_ADDRESS ->if needed
